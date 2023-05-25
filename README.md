@@ -4,7 +4,7 @@
 🔭 Aspiring data scientist with wealth of experience in healthcare and workforce administration.
 
 
-🌱 Passionate about using data anlytics and visualization to solve complex problems.
+🌱 Passionate about using data analytics and visualization to solve complex problems.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetbaba&theme=solarized-dark)](https://github.com/Shwetbaba/github-readme-stats)
 
